@@ -4,8 +4,6 @@ A web application for calculating and displaying Vedic numerology numbers based 
 
 Live app: [https://vedic-numerology-calculator.web.app](https://vedic-numerology-calculator.web.app)
 
-![Vedic Numerology Calculator](screenshot.png)
-
 ## Features
 
 - Calculate Root Number based on day of birth
@@ -228,4 +226,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For support or questions, please contact: your-email@example.com 
+For support or questions, please contact: jk422331@gmail.com 
